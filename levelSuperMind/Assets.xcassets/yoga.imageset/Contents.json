@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "crane-birds-art-natural-landscape-background-with-asian-traditional-icon-texture-3d-illustration.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "crane-birds-art-natural-landscape-background-with-asian-traditional-icon-texture-3d-illustration 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "crane-birds-art-natural-landscape-background-with-asian-traditional-icon-texture-3d-illustration 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
